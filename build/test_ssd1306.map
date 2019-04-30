@@ -6,14 +6,51 @@ Archive member included to satisfy reference by file (symbol)
                               /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-init.o)
                               /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (__libc_init_array)
+/home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memmove.o)
+                              build/ssd1306_tests.o (memmove)
 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memset.o)
                               /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (memset)
+/home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-snprintf.o)
+                              build/ssd1306_tests.o (snprintf)
+/home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+                              /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-snprintf.o) (_svfprintf_r)
+/home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                              /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o) (_printf_i)
+/home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memchr-stub.o)
+                              /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o) (memchr)
+/home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memcpy-stub.o)
+                              /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o) (memcpy)
+/home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-freer.o)
+                              /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o) (_free_r)
+/home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-mallocr.o)
+                              /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o) (_malloc_r)
+/home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-reallocr.o)
+                              /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o) (_realloc_r)
+/home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-sbrkr.o)
+                              /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-mlock.o)
+                              /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+/home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-msizer.o)
+                              /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+/home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-reent.o)
+                              /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-sbrkr.o) (errno)
+/home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+                              /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-sbrkr.o) (_sbrk)
 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
                               /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-exit.o) (_exit)
+/home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+                              build/ssd1306_tests.o (__aeabi_ui2d)
+/home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_muldivdf3.o)
+                              build/ssd1306_tests.o (__aeabi_ddiv)
+/home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_fixdfsi.o)
+                              build/ssd1306_tests.o (__aeabi_d2iz)
+/home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+                              build/ssd1306_tests.o (__aeabi_i2f)
 
 Allocating common symbols
 Common symbol       size              file
 
+errno               0x4               /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-reent.o)
 hi2c1               0x54              build/main.o
 uwTick              0x4               build/stm32f1xx_hal.o
 pFlash              0x20              build/stm32f1xx_hal_flash.o
@@ -34,7 +71,6 @@ Discarded input sections
  .text          0x0000000000000000        0x0 build/main.o
  .data          0x0000000000000000        0x0 build/main.o
  .bss           0x0000000000000000        0x0 build/main.o
- .text.init     0x0000000000000000        0x8 build/main.o
  .text.loop     0x0000000000000000        0xa build/main.o
  .text          0x0000000000000000        0x0 build/gpio.o
  .data          0x0000000000000000        0x0 build/gpio.o
@@ -50,6 +86,17 @@ Discarded input sections
  .text          0x0000000000000000        0x0 build/stm32f1xx_hal_msp.o
  .data          0x0000000000000000        0x0 build/stm32f1xx_hal_msp.o
  .bss           0x0000000000000000        0x0 build/stm32f1xx_hal_msp.o
+ .text          0x0000000000000000        0x0 build/ssd1306.o
+ .data          0x0000000000000000        0x0 build/ssd1306.o
+ .bss           0x0000000000000000        0x0 build/ssd1306.o
+ .text.ssd1306_Reset
+                0x0000000000000000        0x2 build/ssd1306.o
+ .text          0x0000000000000000        0x0 build/ssd1306_fonts.o
+ .data          0x0000000000000000        0x0 build/ssd1306_fonts.o
+ .bss           0x0000000000000000        0x0 build/ssd1306_fonts.o
+ .text          0x0000000000000000        0x0 build/ssd1306_tests.o
+ .data          0x0000000000000000        0x0 build/ssd1306_tests.o
+ .bss           0x0000000000000000        0x0 build/ssd1306_tests.o
  .text          0x0000000000000000        0x0 build/stm32f1xx_hal_gpio_ex.o
  .data          0x0000000000000000        0x0 build/stm32f1xx_hal_gpio_ex.o
  .bss           0x0000000000000000        0x0 build/stm32f1xx_hal_gpio_ex.o
@@ -84,24 +131,12 @@ Discarded input sections
                 0x0000000000000000       0x1e build/stm32f1xx_hal_i2c.o
  .text.I2C_SlaveReceive_BTF
                 0x0000000000000000       0x1e build/stm32f1xx_hal_i2c.o
- .text.I2C_IsAcknowledgeFailed
-                0x0000000000000000       0x2a build/stm32f1xx_hal_i2c.o
- .text.I2C_WaitOnFlagUntilTimeout
-                0x0000000000000000       0x68 build/stm32f1xx_hal_i2c.o
- .text.I2C_WaitOnMasterAddressFlagUntilTimeout
-                0x0000000000000000       0x90 build/stm32f1xx_hal_i2c.o
  .text.I2C_MasterRequestWrite
                 0x0000000000000000       0xbc build/stm32f1xx_hal_i2c.o
  .text.I2C_MasterRequestRead
                 0x0000000000000000      0x120 build/stm32f1xx_hal_i2c.o
- .text.I2C_WaitOnTXEFlagUntilTimeout
-                0x0000000000000000       0x4e build/stm32f1xx_hal_i2c.o
- .text.I2C_RequestMemoryWrite
-                0x0000000000000000       0xd8 build/stm32f1xx_hal_i2c.o
  .text.I2C_RequestMemoryRead
                 0x0000000000000000      0x148 build/stm32f1xx_hal_i2c.o
- .text.I2C_WaitOnBTFFlagUntilTimeout
-                0x0000000000000000       0x4e build/stm32f1xx_hal_i2c.o
  .text.I2C_WaitOnRXNEFlagUntilTimeout
                 0x0000000000000000       0x5c build/stm32f1xx_hal_i2c.o
  .text.I2C_WaitOnSTOPFlagUntilTimeout
@@ -148,8 +183,6 @@ Discarded input sections
                 0x0000000000000000      0x10c build/stm32f1xx_hal_i2c.o
  .text.HAL_I2C_Slave_Receive_DMA
                 0x0000000000000000      0x10c build/stm32f1xx_hal_i2c.o
- .text.HAL_I2C_Mem_Write
-                0x0000000000000000      0x17c build/stm32f1xx_hal_i2c.o
  .text.HAL_I2C_Mem_Read
                 0x0000000000000000      0x300 build/stm32f1xx_hal_i2c.o
  .text.HAL_I2C_Mem_Write_IT
@@ -259,8 +292,6 @@ Discarded input sections
                 0x0000000000000000       0x24 build/stm32f1xx_hal.o
  .text.HAL_GetTickFreq
                 0x0000000000000000        0xc build/stm32f1xx_hal.o
- .text.HAL_Delay
-                0x0000000000000000       0x28 build/stm32f1xx_hal.o
  .text.HAL_SuspendTick
                 0x0000000000000000       0x10 build/stm32f1xx_hal.o
  .text.HAL_ResumeTick
@@ -573,20 +604,64 @@ Discarded input sections
  .text          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-impure.o)
  .data          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-impure.o)
  .bss           0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-impure.o)
- .data._impure_ptr
-                0x0000000000000000        0x4 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-impure.o)
- .data.impure_data
-                0x0000000000000000       0x60 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-impure.o)
  .rodata._global_impure_ptr
                 0x0000000000000000        0x4 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-impure.o)
- .ARM.attributes
-                0x0000000000000000       0x2d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-impure.o)
  .text          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-init.o)
  .data          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-init.o)
  .bss           0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memmove.o)
+ .bss           0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memmove.o)
  .text          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memset.o)
  .data          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memset.o)
  .bss           0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-snprintf.o)
+ .data          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-snprintf.o)
+ .bss           0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-snprintf.o)
+ .text._snprintf_r
+                0x0000000000000000       0x5e /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-snprintf.o)
+ .text          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .data          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .bss           0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .text.__ssprint_r
+                0x0000000000000000       0xf0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .text          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .text          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memchr-stub.o)
+ .data          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memchr-stub.o)
+ .bss           0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memchr-stub.o)
+ .text          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-freer.o)
+ .text          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .data          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .text          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-msizer.o)
+ .data          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-msizer.o)
+ .bss           0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-msizer.o)
+ .text          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x1a /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0xb8 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+ .data          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+ .bss           0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
  .text          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
  .data          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
  .bss           0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
@@ -594,6 +669,14 @@ Discarded input sections
  .debug_frame   0x0000000000000000       0x20 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
  .ARM.attributes
                 0x0000000000000000       0x2d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_muldivdf3.o)
+ .data          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_fixdfsi.o)
+ .data          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+ .bss           0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
  .text          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
  .data          0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
  .bss           0x0000000000000000        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
@@ -621,6 +704,9 @@ LOAD build/gpio.o
 LOAD build/i2c.o
 LOAD build/stm32f1xx_it.o
 LOAD build/stm32f1xx_hal_msp.o
+LOAD build/ssd1306.o
+LOAD build/ssd1306_fonts.o
+LOAD build/ssd1306_tests.o
 LOAD build/stm32f1xx_hal_gpio_ex.o
 LOAD build/stm32f1xx_hal_i2c.o
 LOAD build/stm32f1xx_hal_tim.o
@@ -660,279 +746,469 @@ LOAD /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bi
                 0x0000000008000000                g_pfnVectors
                 0x000000000800010c                . = ALIGN (0x4)
 
-.text           0x000000000800010c      0xd88
+.text           0x000000000800010c     0x28cc
                 0x000000000800010c                . = ALIGN (0x4)
  *(.text)
  .text          0x000000000800010c       0x40 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .text          0x000000000800014c      0x378 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+                0x000000000800014c                __aeabi_drsub
+                0x0000000008000154                __aeabi_dsub
+                0x0000000008000154                __subdf3
+                0x0000000008000158                __adddf3
+                0x0000000008000158                __aeabi_dadd
+                0x00000000080003d0                __aeabi_ui2d
+                0x00000000080003d0                __floatunsidf
+                0x00000000080003f0                __floatsidf
+                0x00000000080003f0                __aeabi_i2d
+                0x0000000008000414                __extendsfdf2
+                0x0000000008000414                __aeabi_f2d
+                0x0000000008000458                __aeabi_ul2d
+                0x0000000008000458                __floatundidf
+                0x0000000008000468                __floatdidf
+                0x0000000008000468                __aeabi_l2d
+ .text          0x00000000080004c4      0x424 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_muldivdf3.o)
+                0x00000000080004c4                __aeabi_dmul
+                0x00000000080004c4                __muldf3
+                0x0000000008000718                __aeabi_ddiv
+                0x0000000008000718                __divdf3
+ .text          0x00000000080008e8       0x50 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_fixdfsi.o)
+                0x00000000080008e8                __fixdfsi
+                0x00000000080008e8                __aeabi_d2iz
+ .text          0x0000000008000938      0x21c /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+                0x0000000008000938                __aeabi_frsub
+                0x0000000008000940                __subsf3
+                0x0000000008000940                __aeabi_fsub
+                0x0000000008000944                __aeabi_fadd
+                0x0000000008000944                __addsf3
+                0x0000000008000aa4                __aeabi_ui2f
+                0x0000000008000aa4                __floatunsisf
+                0x0000000008000aac                __aeabi_i2f
+                0x0000000008000aac                __floatsisf
+                0x0000000008000ac8                __floatundisf
+                0x0000000008000ac8                __aeabi_ul2f
+                0x0000000008000ad8                __floatdisf
+                0x0000000008000ad8                __aeabi_l2f
  *(.text*)
+ .text.init     0x0000000008000b54        0x8 build/main.o
+                0x0000000008000b54                init
  .text.SystemClock_Config
-                0x000000000800014c       0x44 build/main.o
-                0x000000000800014c                SystemClock_Config
- .text.main     0x0000000008000190       0x14 build/main.o
-                0x0000000008000190                main
+                0x0000000008000b5c       0x44 build/main.o
+                0x0000000008000b5c                SystemClock_Config
+ .text.main     0x0000000008000ba0       0x18 build/main.o
+                0x0000000008000ba0                main
  .text.Error_Handler
-                0x00000000080001a4        0x2 build/main.o
-                0x00000000080001a4                Error_Handler
- *fill*         0x00000000080001a6        0x2 
+                0x0000000008000bb8        0x2 build/main.o
+                0x0000000008000bb8                Error_Handler
+ *fill*         0x0000000008000bba        0x2 
  .text.MX_GPIO_Init
-                0x00000000080001a8       0x20 build/gpio.o
-                0x00000000080001a8                MX_GPIO_Init
+                0x0000000008000bbc       0x20 build/gpio.o
+                0x0000000008000bbc                MX_GPIO_Init
  .text.MX_I2C1_Init
-                0x00000000080001c8       0x3c build/i2c.o
-                0x00000000080001c8                MX_I2C1_Init
+                0x0000000008000bdc       0x3c build/i2c.o
+                0x0000000008000bdc                MX_I2C1_Init
  .text.HAL_I2C_MspInit
-                0x0000000008000204       0x64 build/i2c.o
-                0x0000000008000204                HAL_I2C_MspInit
+                0x0000000008000c18       0x64 build/i2c.o
+                0x0000000008000c18                HAL_I2C_MspInit
  .text.NMI_Handler
-                0x0000000008000268        0x2 build/stm32f1xx_it.o
-                0x0000000008000268                NMI_Handler
+                0x0000000008000c7c        0x2 build/stm32f1xx_it.o
+                0x0000000008000c7c                NMI_Handler
  .text.HardFault_Handler
-                0x000000000800026a        0x2 build/stm32f1xx_it.o
-                0x000000000800026a                HardFault_Handler
+                0x0000000008000c7e        0x2 build/stm32f1xx_it.o
+                0x0000000008000c7e                HardFault_Handler
  .text.MemManage_Handler
-                0x000000000800026c        0x2 build/stm32f1xx_it.o
-                0x000000000800026c                MemManage_Handler
+                0x0000000008000c80        0x2 build/stm32f1xx_it.o
+                0x0000000008000c80                MemManage_Handler
  .text.BusFault_Handler
-                0x000000000800026e        0x2 build/stm32f1xx_it.o
-                0x000000000800026e                BusFault_Handler
+                0x0000000008000c82        0x2 build/stm32f1xx_it.o
+                0x0000000008000c82                BusFault_Handler
  .text.UsageFault_Handler
-                0x0000000008000270        0x2 build/stm32f1xx_it.o
-                0x0000000008000270                UsageFault_Handler
+                0x0000000008000c84        0x2 build/stm32f1xx_it.o
+                0x0000000008000c84                UsageFault_Handler
  .text.SVC_Handler
-                0x0000000008000272        0x2 build/stm32f1xx_it.o
-                0x0000000008000272                SVC_Handler
+                0x0000000008000c86        0x2 build/stm32f1xx_it.o
+                0x0000000008000c86                SVC_Handler
  .text.DebugMon_Handler
-                0x0000000008000274        0x2 build/stm32f1xx_it.o
-                0x0000000008000274                DebugMon_Handler
+                0x0000000008000c88        0x2 build/stm32f1xx_it.o
+                0x0000000008000c88                DebugMon_Handler
  .text.PendSV_Handler
-                0x0000000008000276        0x2 build/stm32f1xx_it.o
-                0x0000000008000276                PendSV_Handler
+                0x0000000008000c8a        0x2 build/stm32f1xx_it.o
+                0x0000000008000c8a                PendSV_Handler
  .text.SysTick_Handler
-                0x0000000008000278        0x8 build/stm32f1xx_it.o
-                0x0000000008000278                SysTick_Handler
+                0x0000000008000c8c        0x8 build/stm32f1xx_it.o
+                0x0000000008000c8c                SysTick_Handler
  .text.HAL_MspInit
-                0x0000000008000280       0x44 build/stm32f1xx_hal_msp.o
-                0x0000000008000280                HAL_MspInit
+                0x0000000008000c94       0x44 build/stm32f1xx_hal_msp.o
+                0x0000000008000c94                HAL_MspInit
+ .text.ssd1306_WriteCommand
+                0x0000000008000cd8       0x2c build/ssd1306.o
+                0x0000000008000cd8                ssd1306_WriteCommand
+ .text.ssd1306_WriteData
+                0x0000000008000d04       0x28 build/ssd1306.o
+                0x0000000008000d04                ssd1306_WriteData
+ .text.ssd1306_Fill
+                0x0000000008000d2c       0x20 build/ssd1306.o
+                0x0000000008000d2c                ssd1306_Fill
+ .text.ssd1306_UpdateScreen
+                0x0000000008000d4c       0x38 build/ssd1306.o
+                0x0000000008000d4c                ssd1306_UpdateScreen
+ .text.ssd1306_Init
+                0x0000000008000d84       0xcc build/ssd1306.o
+                0x0000000008000d84                ssd1306_Init
+ .text.ssd1306_DrawPixel
+                0x0000000008000e50       0x54 build/ssd1306.o
+                0x0000000008000e50                ssd1306_DrawPixel
+ .text.ssd1306_WriteChar
+                0x0000000008000ea4       0xa4 build/ssd1306.o
+                0x0000000008000ea4                ssd1306_WriteChar
+ .text.ssd1306_WriteString
+                0x0000000008000f48       0x30 build/ssd1306.o
+                0x0000000008000f48                ssd1306_WriteString
+ .text.ssd1306_SetCursor
+                0x0000000008000f78        0xc build/ssd1306.o
+                0x0000000008000f78                ssd1306_SetCursor
+ .text.ssd1306_TestBorder
+                0x0000000008000f84       0x76 build/ssd1306_tests.o
+                0x0000000008000f84                ssd1306_TestBorder
+ *fill*         0x0000000008000ffa        0x2 
+ .text.ssd1306_TestFonts
+                0x0000000008000ffc       0x64 build/ssd1306_tests.o
+                0x0000000008000ffc                ssd1306_TestFonts
+ .text.ssd1306_TestFPS
+                0x0000000008001060       0xe4 build/ssd1306_tests.o
+                0x0000000008001060                ssd1306_TestFPS
+ .text.ssd1306_TestAll
+                0x0000000008001144       0x1c build/ssd1306_tests.o
+                0x0000000008001144                ssd1306_TestAll
+ .text.I2C_IsAcknowledgeFailed
+                0x0000000008001160       0x2a build/stm32f1xx_hal_i2c.o
+ .text.I2C_WaitOnFlagUntilTimeout
+                0x000000000800118a       0x68 build/stm32f1xx_hal_i2c.o
+ .text.I2C_WaitOnMasterAddressFlagUntilTimeout
+                0x00000000080011f2       0x90 build/stm32f1xx_hal_i2c.o
+ .text.I2C_WaitOnTXEFlagUntilTimeout
+                0x0000000008001282       0x4e build/stm32f1xx_hal_i2c.o
+ .text.I2C_RequestMemoryWrite
+                0x00000000080012d0       0xd8 build/stm32f1xx_hal_i2c.o
+ .text.I2C_WaitOnBTFFlagUntilTimeout
+                0x00000000080013a8       0x4e build/stm32f1xx_hal_i2c.o
+ *fill*         0x00000000080013f6        0x2 
  .text.HAL_I2C_Init
-                0x00000000080002c4      0x168 build/stm32f1xx_hal_i2c.o
-                0x00000000080002c4                HAL_I2C_Init
+                0x00000000080013f8      0x168 build/stm32f1xx_hal_i2c.o
+                0x00000000080013f8                HAL_I2C_Init
+ .text.HAL_I2C_Mem_Write
+                0x0000000008001560      0x17c build/stm32f1xx_hal_i2c.o
+                0x0000000008001560                HAL_I2C_Mem_Write
  .text.HAL_InitTick
-                0x000000000800042c       0x4c build/stm32f1xx_hal.o
-                0x000000000800042c                HAL_InitTick
+                0x00000000080016dc       0x4c build/stm32f1xx_hal.o
+                0x00000000080016dc                HAL_InitTick
  .text.HAL_Init
-                0x0000000008000478       0x24 build/stm32f1xx_hal.o
-                0x0000000008000478                HAL_Init
+                0x0000000008001728       0x24 build/stm32f1xx_hal.o
+                0x0000000008001728                HAL_Init
  .text.HAL_IncTick
-                0x000000000800049c       0x18 build/stm32f1xx_hal.o
-                0x000000000800049c                HAL_IncTick
+                0x000000000800174c       0x18 build/stm32f1xx_hal.o
+                0x000000000800174c                HAL_IncTick
  .text.HAL_GetTick
-                0x00000000080004b4        0xc build/stm32f1xx_hal.o
-                0x00000000080004b4                HAL_GetTick
+                0x0000000008001764        0xc build/stm32f1xx_hal.o
+                0x0000000008001764                HAL_GetTick
+ .text.HAL_Delay
+                0x0000000008001770       0x28 build/stm32f1xx_hal.o
+                0x0000000008001770                HAL_Delay
  .text.RCC_Delay
-                0x00000000080004c0       0x2c build/stm32f1xx_hal_rcc.o
+                0x0000000008001798       0x2c build/stm32f1xx_hal_rcc.o
  .text.HAL_RCC_OscConfig
-                0x00000000080004ec      0x3dc build/stm32f1xx_hal_rcc.o
-                0x00000000080004ec                HAL_RCC_OscConfig
+                0x00000000080017c4      0x3dc build/stm32f1xx_hal_rcc.o
+                0x00000000080017c4                HAL_RCC_OscConfig
  .text.HAL_RCC_GetSysClockFreq
-                0x00000000080008c8       0x70 build/stm32f1xx_hal_rcc.o
-                0x00000000080008c8                HAL_RCC_GetSysClockFreq
+                0x0000000008001ba0       0x70 build/stm32f1xx_hal_rcc.o
+                0x0000000008001ba0                HAL_RCC_GetSysClockFreq
  .text.HAL_RCC_ClockConfig
-                0x0000000008000938      0x19c build/stm32f1xx_hal_rcc.o
-                0x0000000008000938                HAL_RCC_ClockConfig
+                0x0000000008001c10      0x19c build/stm32f1xx_hal_rcc.o
+                0x0000000008001c10                HAL_RCC_ClockConfig
  .text.HAL_RCC_GetHCLKFreq
-                0x0000000008000ad4        0xc build/stm32f1xx_hal_rcc.o
-                0x0000000008000ad4                HAL_RCC_GetHCLKFreq
+                0x0000000008001dac        0xc build/stm32f1xx_hal_rcc.o
+                0x0000000008001dac                HAL_RCC_GetHCLKFreq
  .text.HAL_RCC_GetPCLK1Freq
-                0x0000000008000ae0       0x20 build/stm32f1xx_hal_rcc.o
-                0x0000000008000ae0                HAL_RCC_GetPCLK1Freq
+                0x0000000008001db8       0x20 build/stm32f1xx_hal_rcc.o
+                0x0000000008001db8                HAL_RCC_GetPCLK1Freq
  .text.HAL_GPIO_Init
-                0x0000000008000b00      0x1d4 build/stm32f1xx_hal_gpio.o
-                0x0000000008000b00                HAL_GPIO_Init
+                0x0000000008001dd8      0x1d4 build/stm32f1xx_hal_gpio.o
+                0x0000000008001dd8                HAL_GPIO_Init
  .text.HAL_NVIC_SetPriorityGrouping
-                0x0000000008000cd4       0x24 build/stm32f1xx_hal_cortex.o
-                0x0000000008000cd4                HAL_NVIC_SetPriorityGrouping
+                0x0000000008001fac       0x24 build/stm32f1xx_hal_cortex.o
+                0x0000000008001fac                HAL_NVIC_SetPriorityGrouping
  .text.HAL_NVIC_SetPriority
-                0x0000000008000cf8       0x68 build/stm32f1xx_hal_cortex.o
-                0x0000000008000cf8                HAL_NVIC_SetPriority
+                0x0000000008001fd0       0x68 build/stm32f1xx_hal_cortex.o
+                0x0000000008001fd0                HAL_NVIC_SetPriority
  .text.HAL_SYSTICK_Config
-                0x0000000008000d60       0x2c build/stm32f1xx_hal_cortex.o
-                0x0000000008000d60                HAL_SYSTICK_Config
+                0x0000000008002038       0x2c build/stm32f1xx_hal_cortex.o
+                0x0000000008002038                HAL_SYSTICK_Config
  .text.SystemInit
-                0x0000000008000d8c       0x4c build/system_stm32f1xx.o
-                0x0000000008000d8c                SystemInit
+                0x0000000008002064       0x4c build/system_stm32f1xx.o
+                0x0000000008002064                SystemInit
  .text.Reset_Handler
-                0x0000000008000dd8       0x48 build/startup_stm32f103xb.o
-                0x0000000008000dd8                Reset_Handler
+                0x00000000080020b0       0x48 build/startup_stm32f103xb.o
+                0x00000000080020b0                Reset_Handler
  .text.Default_Handler
-                0x0000000008000e20        0x2 build/startup_stm32f103xb.o
-                0x0000000008000e20                RTC_Alarm_IRQHandler
-                0x0000000008000e20                EXTI2_IRQHandler
-                0x0000000008000e20                TIM1_CC_IRQHandler
-                0x0000000008000e20                PVD_IRQHandler
-                0x0000000008000e20                EXTI3_IRQHandler
-                0x0000000008000e20                EXTI0_IRQHandler
-                0x0000000008000e20                I2C2_EV_IRQHandler
-                0x0000000008000e20                ADC1_2_IRQHandler
-                0x0000000008000e20                SPI1_IRQHandler
-                0x0000000008000e20                TAMPER_IRQHandler
-                0x0000000008000e20                DMA1_Channel4_IRQHandler
-                0x0000000008000e20                USART3_IRQHandler
-                0x0000000008000e20                RTC_IRQHandler
-                0x0000000008000e20                DMA1_Channel7_IRQHandler
-                0x0000000008000e20                CAN1_RX1_IRQHandler
-                0x0000000008000e20                TIM4_IRQHandler
-                0x0000000008000e20                I2C1_EV_IRQHandler
-                0x0000000008000e20                DMA1_Channel6_IRQHandler
-                0x0000000008000e20                TIM3_IRQHandler
-                0x0000000008000e20                RCC_IRQHandler
-                0x0000000008000e20                TIM1_TRG_COM_IRQHandler
-                0x0000000008000e20                DMA1_Channel1_IRQHandler
-                0x0000000008000e20                Default_Handler
-                0x0000000008000e20                EXTI15_10_IRQHandler
-                0x0000000008000e20                EXTI9_5_IRQHandler
-                0x0000000008000e20                SPI2_IRQHandler
-                0x0000000008000e20                DMA1_Channel5_IRQHandler
-                0x0000000008000e20                EXTI4_IRQHandler
-                0x0000000008000e20                USB_LP_CAN1_RX0_IRQHandler
-                0x0000000008000e20                USB_HP_CAN1_TX_IRQHandler
-                0x0000000008000e20                DMA1_Channel3_IRQHandler
-                0x0000000008000e20                TIM1_UP_IRQHandler
-                0x0000000008000e20                WWDG_IRQHandler
-                0x0000000008000e20                TIM2_IRQHandler
-                0x0000000008000e20                TIM1_BRK_IRQHandler
-                0x0000000008000e20                EXTI1_IRQHandler
-                0x0000000008000e20                USART2_IRQHandler
-                0x0000000008000e20                I2C2_ER_IRQHandler
-                0x0000000008000e20                DMA1_Channel2_IRQHandler
-                0x0000000008000e20                CAN1_SCE_IRQHandler
-                0x0000000008000e20                FLASH_IRQHandler
-                0x0000000008000e20                USART1_IRQHandler
-                0x0000000008000e20                I2C1_ER_IRQHandler
-                0x0000000008000e20                USBWakeUp_IRQHandler
- *fill*         0x0000000008000e22        0x2 
+                0x00000000080020f8        0x2 build/startup_stm32f103xb.o
+                0x00000000080020f8                RTC_Alarm_IRQHandler
+                0x00000000080020f8                EXTI2_IRQHandler
+                0x00000000080020f8                TIM1_CC_IRQHandler
+                0x00000000080020f8                PVD_IRQHandler
+                0x00000000080020f8                EXTI3_IRQHandler
+                0x00000000080020f8                EXTI0_IRQHandler
+                0x00000000080020f8                I2C2_EV_IRQHandler
+                0x00000000080020f8                ADC1_2_IRQHandler
+                0x00000000080020f8                SPI1_IRQHandler
+                0x00000000080020f8                TAMPER_IRQHandler
+                0x00000000080020f8                DMA1_Channel4_IRQHandler
+                0x00000000080020f8                USART3_IRQHandler
+                0x00000000080020f8                RTC_IRQHandler
+                0x00000000080020f8                DMA1_Channel7_IRQHandler
+                0x00000000080020f8                CAN1_RX1_IRQHandler
+                0x00000000080020f8                TIM4_IRQHandler
+                0x00000000080020f8                I2C1_EV_IRQHandler
+                0x00000000080020f8                DMA1_Channel6_IRQHandler
+                0x00000000080020f8                TIM3_IRQHandler
+                0x00000000080020f8                RCC_IRQHandler
+                0x00000000080020f8                TIM1_TRG_COM_IRQHandler
+                0x00000000080020f8                DMA1_Channel1_IRQHandler
+                0x00000000080020f8                Default_Handler
+                0x00000000080020f8                EXTI15_10_IRQHandler
+                0x00000000080020f8                EXTI9_5_IRQHandler
+                0x00000000080020f8                SPI2_IRQHandler
+                0x00000000080020f8                DMA1_Channel5_IRQHandler
+                0x00000000080020f8                EXTI4_IRQHandler
+                0x00000000080020f8                USB_LP_CAN1_RX0_IRQHandler
+                0x00000000080020f8                USB_HP_CAN1_TX_IRQHandler
+                0x00000000080020f8                DMA1_Channel3_IRQHandler
+                0x00000000080020f8                TIM1_UP_IRQHandler
+                0x00000000080020f8                WWDG_IRQHandler
+                0x00000000080020f8                TIM2_IRQHandler
+                0x00000000080020f8                TIM1_BRK_IRQHandler
+                0x00000000080020f8                EXTI1_IRQHandler
+                0x00000000080020f8                USART2_IRQHandler
+                0x00000000080020f8                I2C2_ER_IRQHandler
+                0x00000000080020f8                DMA1_Channel2_IRQHandler
+                0x00000000080020f8                CAN1_SCE_IRQHandler
+                0x00000000080020f8                FLASH_IRQHandler
+                0x00000000080020f8                USART1_IRQHandler
+                0x00000000080020f8                I2C1_ER_IRQHandler
+                0x00000000080020f8                USBWakeUp_IRQHandler
+ *fill*         0x00000000080020fa        0x2 
  .text.__libc_init_array
-                0x0000000008000e24       0x48 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-init.o)
-                0x0000000008000e24                __libc_init_array
- .text.memset   0x0000000008000e6c       0x10 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memset.o)
-                0x0000000008000e6c                memset
+                0x00000000080020fc       0x48 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-init.o)
+                0x00000000080020fc                __libc_init_array
+ .text.memmove  0x0000000008002144       0x32 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memmove.o)
+                0x0000000008002144                memmove
+ .text.memset   0x0000000008002176       0x10 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memset.o)
+                0x0000000008002176                memset
+ *fill*         0x0000000008002186        0x2 
+ .text.snprintf
+                0x0000000008002188       0x68 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-snprintf.o)
+                0x0000000008002188                snprintf
+                0x0000000008002188                sniprintf
+ .text.__ssputs_r
+                0x00000000080021f0       0xb4 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+                0x00000000080021f0                __ssputs_r
+ .text._svfprintf_r
+                0x00000000080022a4      0x1f0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+                0x00000000080022a4                _svfprintf_r
+                0x00000000080022a4                _svfiprintf_r
+ .text._printf_common
+                0x0000000008002494       0xec /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000008002494                _printf_common
+ .text._printf_i
+                0x0000000008002580      0x224 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000008002580                _printf_i
+ .text.memchr   0x00000000080027a4       0x1c /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memchr-stub.o)
+                0x00000000080027a4                memchr
+ .text.memcpy   0x00000000080027c0       0x16 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memcpy-stub.o)
+                0x00000000080027c0                memcpy
+ *fill*         0x00000000080027d6        0x2 
+ .text._free_r  0x00000000080027d8       0x98 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-freer.o)
+                0x00000000080027d8                _free_r
+ .text._malloc_r
+                0x0000000008002870       0xb4 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-mallocr.o)
+                0x0000000008002870                _malloc_r
+ .text._realloc_r
+                0x0000000008002924       0x4c /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-reallocr.o)
+                0x0000000008002924                _realloc_r
+ .text._sbrk_r  0x0000000008002970       0x20 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-sbrkr.o)
+                0x0000000008002970                _sbrk_r
+ .text.__malloc_lock
+                0x0000000008002990        0x2 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-mlock.o)
+                0x0000000008002990                __malloc_lock
+ .text.__malloc_unlock
+                0x0000000008002992        0x2 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-mlock.o)
+                0x0000000008002992                __malloc_unlock
+ .text._malloc_usable_size_r
+                0x0000000008002994       0x10 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-msizer.o)
+                0x0000000008002994                _malloc_usable_size_r
+ .text._sbrk    0x00000000080029a4       0x1c /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+                0x00000000080029a4                _sbrk
  *(.glue_7)
- .glue_7        0x0000000008000e7c        0x0 linker stubs
+ .glue_7        0x00000000080029c0        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x0000000008000e7c        0x0 linker stubs
+ .glue_7t       0x00000000080029c0        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x0000000008000e7c        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .eh_frame      0x00000000080029c0        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
  *(.init)
- .init          0x0000000008000e7c        0x4 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
-                0x0000000008000e7c                _init
- .init          0x0000000008000e80        0x8 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ .init          0x00000000080029c0        0x4 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+                0x00000000080029c0                _init
+ .init          0x00000000080029c4        0x8 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
  *(.fini)
- .fini          0x0000000008000e88        0x4 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
-                0x0000000008000e88                _fini
- .fini          0x0000000008000e8c        0x8 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
-                0x0000000008000e94                . = ALIGN (0x4)
-                0x0000000008000e94                _etext = .
+ .fini          0x00000000080029cc        0x4 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+                0x00000000080029cc                _fini
+ .fini          0x00000000080029d0        0x8 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+                0x00000000080029d8                . = ALIGN (0x4)
+                0x00000000080029d8                _etext = .
 
-.vfp11_veneer   0x0000000008000e94        0x0
- .vfp11_veneer  0x0000000008000e94        0x0 linker stubs
+.vfp11_veneer   0x00000000080029d8        0x0
+ .vfp11_veneer  0x00000000080029d8        0x0 linker stubs
 
-.v4_bx          0x0000000008000e94        0x0
- .v4_bx         0x0000000008000e94        0x0 linker stubs
+.v4_bx          0x00000000080029d8        0x0
+ .v4_bx         0x00000000080029d8        0x0 linker stubs
 
-.iplt           0x0000000008000e94        0x0
- .iplt          0x0000000008000e94        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+.iplt           0x00000000080029d8        0x0
+ .iplt          0x00000000080029d8        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
 
-.rodata         0x0000000008000e94       0x2c
-                0x0000000008000e94                . = ALIGN (0x4)
+.rodata         0x00000000080029d8     0x28b8
+                0x00000000080029d8                . = ALIGN (0x4)
  *(.rodata)
- .rodata        0x0000000008000e94       0x12 build/stm32f1xx_hal_rcc.o
+ .rodata        0x00000000080029d8       0x12 build/stm32f1xx_hal_rcc.o
  *(.rodata*)
- *fill*         0x0000000008000ea6        0x2 
+ *fill*         0x00000000080029ea        0x2 
+ .rodata.Font11x18
+                0x00000000080029ec      0xd5c build/ssd1306_fonts.o
+ .rodata.Font16x26
+                0x0000000008003748     0x134c build/ssd1306_fonts.o
+ .rodata.Font7x10
+                0x0000000008004a94      0x76c build/ssd1306_fonts.o
+ .rodata.ssd1306_TestFPS.str1.4
+                0x0000000008005200       0x20 build/ssd1306_tests.o
+ .rodata.ssd1306_TestFonts.str1.4
+                0x0000000008005220       0x24 build/ssd1306_tests.o
+                                         0x22 (size before relaxing)
  .rodata.AHBPrescTable
-                0x0000000008000ea8       0x10 build/system_stm32f1xx.o
-                0x0000000008000ea8                AHBPrescTable
+                0x0000000008005244       0x10 build/system_stm32f1xx.o
+                0x0000000008005244                AHBPrescTable
  .rodata.APBPrescTable
-                0x0000000008000eb8        0x8 build/system_stm32f1xx.o
-                0x0000000008000eb8                APBPrescTable
-                0x0000000008000ec0                . = ALIGN (0x4)
+                0x0000000008005254        0x8 build/system_stm32f1xx.o
+                0x0000000008005254                APBPrescTable
+ .rodata._svfprintf_r.str1.1
+                0x000000000800525c       0x11 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .rodata._printf_i.str1.1
+                0x000000000800526d       0x22 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000008005290                . = ALIGN (0x4)
+ *fill*         0x000000000800528f        0x1 
 
-.rel.dyn        0x0000000008000ec0        0x0
- .rel.iplt      0x0000000008000ec0        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+.rel.dyn        0x0000000008005290        0x0
+ .rel.iplt      0x0000000008005290        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
 
-.ARM            0x0000000008000ec0        0x0
-                0x0000000008000ec0                __exidx_start = .
+.ARM            0x0000000008005290        0x0
+                0x0000000008005290                __exidx_start = .
  *(.ARM.exidx*)
-                0x0000000008000ec0                __exidx_end = .
+                0x0000000008005290                __exidx_end = .
 
-.preinit_array  0x0000000008000ec0        0x0
-                0x0000000008000ec0                PROVIDE (__preinit_array_start = .)
+.preinit_array  0x0000000008005290        0x0
+                0x0000000008005290                PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x0000000008000ec0                PROVIDE (__preinit_array_end = .)
+                0x0000000008005290                PROVIDE (__preinit_array_end = .)
 
-.init_array     0x0000000008000ec0        0x4
-                0x0000000008000ec0                PROVIDE (__init_array_start = .)
+.init_array     0x0000000008005290        0x4
+                0x0000000008005290                PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
- .init_array    0x0000000008000ec0        0x4 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
-                0x0000000008000ec4                PROVIDE (__init_array_end = .)
+ .init_array    0x0000000008005290        0x4 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+                0x0000000008005294                PROVIDE (__init_array_end = .)
 
-.fini_array     0x0000000008000ec4        0x4
+.fini_array     0x0000000008005294        0x4
                 [!provide]                        PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x0000000008000ec4        0x4 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .fini_array    0x0000000008005294        0x4 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
                 [!provide]                        PROVIDE (__fini_array_end = .)
-                0x0000000008000ec8                _sidata = LOADADDR (.data)
+                0x0000000008005298                _sidata = LOADADDR (.data)
 
-.data           0x0000000020000000        0xc load address 0x0000000008000ec8
+.data           0x0000000020000000       0x88 load address 0x0000000008005298
                 0x0000000020000000                . = ALIGN (0x4)
                 0x0000000020000000                _sdata = .
  *(.data)
  *(.data*)
+ .data.Font_11x18
+                0x0000000020000000        0x8 build/ssd1306_fonts.o
+                0x0000000020000000                Font_11x18
+ .data.Font_16x26
+                0x0000000020000008        0x8 build/ssd1306_fonts.o
+                0x0000000020000008                Font_16x26
+ .data.Font_7x10
+                0x0000000020000010        0x8 build/ssd1306_fonts.o
+                0x0000000020000010                Font_7x10
  .data.uwTickFreq
-                0x0000000020000000        0x1 build/stm32f1xx_hal.o
-                0x0000000020000000                uwTickFreq
- *fill*         0x0000000020000001        0x3 
+                0x0000000020000018        0x1 build/stm32f1xx_hal.o
+                0x0000000020000018                uwTickFreq
+ *fill*         0x0000000020000019        0x3 
  .data.uwTickPrio
-                0x0000000020000004        0x4 build/stm32f1xx_hal.o
-                0x0000000020000004                uwTickPrio
+                0x000000002000001c        0x4 build/stm32f1xx_hal.o
+                0x000000002000001c                uwTickPrio
  .data.SystemCoreClock
-                0x0000000020000008        0x4 build/system_stm32f1xx.o
-                0x0000000020000008                SystemCoreClock
-                0x000000002000000c                . = ALIGN (0x4)
-                0x000000002000000c                _edata = .
+                0x0000000020000020        0x4 build/system_stm32f1xx.o
+                0x0000000020000020                SystemCoreClock
+ .data._impure_ptr
+                0x0000000020000024        0x4 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-impure.o)
+                0x0000000020000024                _impure_ptr
+ .data.impure_data
+                0x0000000020000028       0x60 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-impure.o)
+                0x0000000020000088                . = ALIGN (0x4)
+                0x0000000020000088                _edata = .
 
-.igot.plt       0x000000002000000c        0x0 load address 0x0000000008000ed4
- .igot.plt      0x000000002000000c        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
-                0x000000002000000c                . = ALIGN (0x4)
+.igot.plt       0x0000000020000088        0x0 load address 0x0000000008005320
+ .igot.plt      0x0000000020000088        0x0 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+                0x0000000020000088                . = ALIGN (0x4)
 
-.bss            0x000000002000000c       0x74 load address 0x0000000008000ed4
-                0x000000002000000c                _sbss = .
-                0x000000002000000c                __bss_start__ = _sbss
+.bss            0x0000000020000088      0x48c load address 0x0000000008005320
+                0x0000000020000088                _sbss = .
+                0x0000000020000088                __bss_start__ = _sbss
  *(.bss)
- .bss           0x000000002000000c       0x1c /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .bss           0x0000000020000088       0x1c /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
  *(.bss*)
+ .bss.SSD1306   0x00000000200000a4        0x6 build/ssd1306.o
+ *fill*         0x00000000200000aa        0x2 
+ .bss.SSD1306_Buffer
+                0x00000000200000ac      0x400 build/ssd1306.o
+ .bss.__malloc_free_list
+                0x00000000200004ac        0x4 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-mallocr.o)
+                0x00000000200004ac                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x00000000200004b0        0x4 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-mallocr.o)
+                0x00000000200004b0                __malloc_sbrk_start
+ .bss.heap_end.4102
+                0x00000000200004b4        0x4 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
  *(COMMON)
- COMMON         0x0000000020000028       0x54 build/main.o
-                0x0000000020000028                hi2c1
- COMMON         0x000000002000007c        0x4 build/stm32f1xx_hal.o
-                0x000000002000007c                uwTick
-                0x0000000020000080                . = ALIGN (0x4)
-                0x0000000020000080                _ebss = .
-                0x0000000020000080                __bss_end__ = _ebss
+ COMMON         0x00000000200004b8       0x54 build/main.o
+                0x00000000200004b8                hi2c1
+ COMMON         0x000000002000050c        0x4 build/stm32f1xx_hal.o
+                0x000000002000050c                uwTick
+ COMMON         0x0000000020000510        0x4 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-reent.o)
+                0x0000000020000510                errno
+                0x0000000020000514                . = ALIGN (0x4)
+                0x0000000020000514                _ebss = .
+                0x0000000020000514                __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x0000000020000080      0x600 load address 0x0000000008000ed4
-                0x0000000020000080                . = ALIGN (0x8)
-                [!provide]                        PROVIDE (end = .)
+                0x0000000020000514      0x604 load address 0x0000000008005320
+                0x0000000020000518                . = ALIGN (0x8)
+ *fill*         0x0000000020000514        0x4 
+                0x0000000020000518                PROVIDE (end = .)
                 [!provide]                        PROVIDE (_end = .)
-                0x0000000020000280                . = (. + _Min_Heap_Size)
- *fill*         0x0000000020000080      0x200 
-                0x0000000020000680                . = (. + _Min_Stack_Size)
- *fill*         0x0000000020000280      0x400 
-                0x0000000020000680                . = ALIGN (0x8)
+                0x0000000020000718                . = (. + _Min_Heap_Size)
+ *fill*         0x0000000020000518      0x200 
+                0x0000000020000b18                . = (. + _Min_Stack_Size)
+ *fill*         0x0000000020000718      0x400 
+                0x0000000020000b18                . = ALIGN (0x8)
 
 /DISCARD/
  libc.a(*)
@@ -957,69 +1233,121 @@ LOAD /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bi
  .ARM.attributes
                 0x0000000000000116       0x33 build/stm32f1xx_hal_msp.o
  .ARM.attributes
-                0x0000000000000149       0x33 build/stm32f1xx_hal_i2c.o
+                0x0000000000000149       0x33 build/ssd1306.o
  .ARM.attributes
-                0x000000000000017c       0x33 build/stm32f1xx_hal.o
+                0x000000000000017c       0x33 build/ssd1306_fonts.o
  .ARM.attributes
-                0x00000000000001af       0x33 build/stm32f1xx_hal_rcc.o
+                0x00000000000001af       0x33 build/ssd1306_tests.o
  .ARM.attributes
-                0x00000000000001e2       0x33 build/stm32f1xx_hal_gpio.o
+                0x00000000000001e2       0x33 build/stm32f1xx_hal_i2c.o
  .ARM.attributes
-                0x0000000000000215       0x33 build/stm32f1xx_hal_cortex.o
+                0x0000000000000215       0x33 build/stm32f1xx_hal.o
  .ARM.attributes
-                0x0000000000000248       0x33 build/system_stm32f1xx.o
+                0x0000000000000248       0x33 build/stm32f1xx_hal_rcc.o
  .ARM.attributes
-                0x000000000000027b       0x21 build/startup_stm32f103xb.o
+                0x000000000000027b       0x33 build/stm32f1xx_hal_gpio.o
  .ARM.attributes
-                0x000000000000029c       0x2d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-init.o)
+                0x00000000000002ae       0x33 build/stm32f1xx_hal_cortex.o
  .ARM.attributes
-                0x00000000000002c9       0x2d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memset.o)
+                0x00000000000002e1       0x33 build/system_stm32f1xx.o
  .ARM.attributes
-                0x00000000000002f6       0x1d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+                0x0000000000000314       0x21 build/startup_stm32f103xb.o
+ .ARM.attributes
+                0x0000000000000335       0x2d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000362       0x2d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x000000000000038f       0x2d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000000000003bc       0x2d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000000003e9       0x2d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-snprintf.o)
+ .ARM.attributes
+                0x0000000000000416       0x2d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .ARM.attributes
+                0x0000000000000443       0x2d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x0000000000000470       0x2d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x000000000000049d       0x2d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000000004ca       0x2d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x00000000000004f7       0x2d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x0000000000000524       0x2d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x0000000000000551       0x2d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x000000000000057e       0x2d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000000000005ab       0x2d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-msizer.o)
+ .ARM.attributes
+                0x00000000000005d8       0x2d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000000000000605       0x2d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x0000000000000632       0x1d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x000000000000064f       0x1d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x000000000000066c       0x1d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x0000000000000689       0x1d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x00000000000006a6       0x1d /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
 OUTPUT(build/test_ssd1306.elf elf32-littlearm)
 
-.debug_info     0x0000000000000000     0xdb43
- .debug_info    0x0000000000000000     0x1281 build/main.o
- .debug_info    0x0000000000001281      0xb4e build/gpio.o
- .debug_info    0x0000000000001dcf     0x1287 build/i2c.o
- .debug_info    0x0000000000003056      0xb49 build/stm32f1xx_it.o
- .debug_info    0x0000000000003b9f      0xbfb build/stm32f1xx_hal_msp.o
- .debug_info    0x000000000000479a     0x3a8d build/stm32f1xx_hal_i2c.o
- .debug_info    0x0000000000008227     0x113a build/stm32f1xx_hal.o
- .debug_info    0x0000000000009361     0x13cd build/stm32f1xx_hal_rcc.o
- .debug_info    0x000000000000a72e     0x101e build/stm32f1xx_hal_gpio.o
- .debug_info    0x000000000000b74c     0x1646 build/stm32f1xx_hal_cortex.o
- .debug_info    0x000000000000cd92      0xd8f build/system_stm32f1xx.o
- .debug_info    0x000000000000db21       0x22 build/startup_stm32f103xb.o
+.debug_info     0x0000000000000000    0x107c0
+ .debug_info    0x0000000000000000     0x128a build/main.o
+ .debug_info    0x000000000000128a      0xb4e build/gpio.o
+ .debug_info    0x0000000000001dd8     0x1287 build/i2c.o
+ .debug_info    0x000000000000305f      0xb49 build/stm32f1xx_it.o
+ .debug_info    0x0000000000003ba8      0xbfb build/stm32f1xx_hal_msp.o
+ .debug_info    0x00000000000047a3     0x1644 build/ssd1306.o
+ .debug_info    0x0000000000005de7      0x1a4 build/ssd1306_fonts.o
+ .debug_info    0x0000000000005f8b     0x148c build/ssd1306_tests.o
+ .debug_info    0x0000000000007417     0x3a8d build/stm32f1xx_hal_i2c.o
+ .debug_info    0x000000000000aea4     0x113a build/stm32f1xx_hal.o
+ .debug_info    0x000000000000bfde     0x13cd build/stm32f1xx_hal_rcc.o
+ .debug_info    0x000000000000d3ab     0x101e build/stm32f1xx_hal_gpio.o
+ .debug_info    0x000000000000e3c9     0x1646 build/stm32f1xx_hal_cortex.o
+ .debug_info    0x000000000000fa0f      0xd8f build/system_stm32f1xx.o
+ .debug_info    0x000000000001079e       0x22 build/startup_stm32f103xb.o
 
-.debug_abbrev   0x0000000000000000     0x1c80
+.debug_abbrev   0x0000000000000000     0x222b
  .debug_abbrev  0x0000000000000000      0x291 build/main.o
  .debug_abbrev  0x0000000000000291      0x1d3 build/gpio.o
  .debug_abbrev  0x0000000000000464      0x246 build/i2c.o
  .debug_abbrev  0x00000000000006aa      0x1e3 build/stm32f1xx_it.o
  .debug_abbrev  0x000000000000088d      0x1de build/stm32f1xx_hal_msp.o
- .debug_abbrev  0x0000000000000a6b      0x33a build/stm32f1xx_hal_i2c.o
- .debug_abbrev  0x0000000000000da5      0x2fd build/stm32f1xx_hal.o
- .debug_abbrev  0x00000000000010a2      0x332 build/stm32f1xx_hal_rcc.o
- .debug_abbrev  0x00000000000013d4      0x2be build/stm32f1xx_hal_gpio.o
- .debug_abbrev  0x0000000000001692      0x3d3 build/stm32f1xx_hal_cortex.o
- .debug_abbrev  0x0000000000001a65      0x209 build/system_stm32f1xx.o
- .debug_abbrev  0x0000000000001c6e       0x12 build/startup_stm32f103xb.o
+ .debug_abbrev  0x0000000000000a6b      0x2af build/ssd1306.o
+ .debug_abbrev  0x0000000000000d1a       0x9e build/ssd1306_fonts.o
+ .debug_abbrev  0x0000000000000db8      0x25e build/ssd1306_tests.o
+ .debug_abbrev  0x0000000000001016      0x33a build/stm32f1xx_hal_i2c.o
+ .debug_abbrev  0x0000000000001350      0x2fd build/stm32f1xx_hal.o
+ .debug_abbrev  0x000000000000164d      0x332 build/stm32f1xx_hal_rcc.o
+ .debug_abbrev  0x000000000000197f      0x2be build/stm32f1xx_hal_gpio.o
+ .debug_abbrev  0x0000000000001c3d      0x3d3 build/stm32f1xx_hal_cortex.o
+ .debug_abbrev  0x0000000000002010      0x209 build/system_stm32f1xx.o
+ .debug_abbrev  0x0000000000002219       0x12 build/startup_stm32f103xb.o
 
-.debug_loc      0x0000000000000000     0x5389
+.debug_loc      0x0000000000000000     0x590c
  .debug_loc     0x0000000000000000       0x99 build/main.o
  .debug_loc     0x0000000000000099       0x2c build/gpio.o
  .debug_loc     0x00000000000000c5       0xf8 build/i2c.o
  .debug_loc     0x00000000000001bd       0x20 build/stm32f1xx_it.o
  .debug_loc     0x00000000000001dd       0x2c build/stm32f1xx_hal_msp.o
- .debug_loc     0x0000000000000209     0x3d23 build/stm32f1xx_hal_i2c.o
- .debug_loc     0x0000000000003f2c      0x19d build/stm32f1xx_hal.o
- .debug_loc     0x00000000000040c9      0x68e build/stm32f1xx_hal_rcc.o
- .debug_loc     0x0000000000004757      0x516 build/stm32f1xx_hal_gpio.o
- .debug_loc     0x0000000000004c6d      0x63d build/stm32f1xx_hal_cortex.o
- .debug_loc     0x00000000000052aa       0xdf build/system_stm32f1xx.o
+ .debug_loc     0x0000000000000209      0x3b5 build/ssd1306.o
+ .debug_loc     0x00000000000005be      0x1ce build/ssd1306_tests.o
+ .debug_loc     0x000000000000078c     0x3d23 build/stm32f1xx_hal_i2c.o
+ .debug_loc     0x00000000000044af      0x19d build/stm32f1xx_hal.o
+ .debug_loc     0x000000000000464c      0x68e build/stm32f1xx_hal_rcc.o
+ .debug_loc     0x0000000000004cda      0x516 build/stm32f1xx_hal_gpio.o
+ .debug_loc     0x00000000000051f0      0x63d build/stm32f1xx_hal_cortex.o
+ .debug_loc     0x000000000000582d       0xdf build/system_stm32f1xx.o
 
-.debug_aranges  0x0000000000000000      0x610
+.debug_aranges  0x0000000000000000      0x6c8
  .debug_aranges
                 0x0000000000000000       0x40 build/main.o
  .debug_aranges
@@ -1031,72 +1359,89 @@ OUTPUT(build/test_ssd1306.elf elf32-littlearm)
  .debug_aranges
                 0x00000000000000f0       0x20 build/stm32f1xx_hal_msp.o
  .debug_aranges
-                0x0000000000000110      0x268 build/stm32f1xx_hal_i2c.o
+                0x0000000000000110       0x68 build/ssd1306.o
  .debug_aranges
-                0x0000000000000378       0xd0 build/stm32f1xx_hal.o
+                0x0000000000000178       0x18 build/ssd1306_fonts.o
  .debug_aranges
-                0x0000000000000448       0x90 build/stm32f1xx_hal_rcc.o
+                0x0000000000000190       0x38 build/ssd1306_tests.o
  .debug_aranges
-                0x00000000000004d8       0x58 build/stm32f1xx_hal_gpio.o
+                0x00000000000001c8      0x268 build/stm32f1xx_hal_i2c.o
  .debug_aranges
-                0x0000000000000530       0x90 build/stm32f1xx_hal_cortex.o
+                0x0000000000000430       0xd0 build/stm32f1xx_hal.o
  .debug_aranges
-                0x00000000000005c0       0x28 build/system_stm32f1xx.o
+                0x0000000000000500       0x90 build/stm32f1xx_hal_rcc.o
  .debug_aranges
-                0x00000000000005e8       0x28 build/startup_stm32f103xb.o
+                0x0000000000000590       0x58 build/stm32f1xx_hal_gpio.o
+ .debug_aranges
+                0x00000000000005e8       0x90 build/stm32f1xx_hal_cortex.o
+ .debug_aranges
+                0x0000000000000678       0x28 build/system_stm32f1xx.o
+ .debug_aranges
+                0x00000000000006a0       0x28 build/startup_stm32f103xb.o
 
-.debug_ranges   0x0000000000000000      0x5d8
+.debug_ranges   0x0000000000000000      0x658
  .debug_ranges  0x0000000000000000       0x30 build/main.o
  .debug_ranges  0x0000000000000030       0x10 build/gpio.o
  .debug_ranges  0x0000000000000040       0x20 build/i2c.o
  .debug_ranges  0x0000000000000060       0x50 build/stm32f1xx_it.o
  .debug_ranges  0x00000000000000b0       0x10 build/stm32f1xx_hal_msp.o
- .debug_ranges  0x00000000000000c0      0x258 build/stm32f1xx_hal_i2c.o
- .debug_ranges  0x0000000000000318       0xc0 build/stm32f1xx_hal.o
- .debug_ranges  0x00000000000003d8       0xa0 build/stm32f1xx_hal_rcc.o
- .debug_ranges  0x0000000000000478       0x48 build/stm32f1xx_hal_gpio.o
- .debug_ranges  0x00000000000004c0       0xe0 build/stm32f1xx_hal_cortex.o
- .debug_ranges  0x00000000000005a0       0x18 build/system_stm32f1xx.o
- .debug_ranges  0x00000000000005b8       0x20 build/startup_stm32f103xb.o
+ .debug_ranges  0x00000000000000c0       0x58 build/ssd1306.o
+ .debug_ranges  0x0000000000000118       0x28 build/ssd1306_tests.o
+ .debug_ranges  0x0000000000000140      0x258 build/stm32f1xx_hal_i2c.o
+ .debug_ranges  0x0000000000000398       0xc0 build/stm32f1xx_hal.o
+ .debug_ranges  0x0000000000000458       0xa0 build/stm32f1xx_hal_rcc.o
+ .debug_ranges  0x00000000000004f8       0x48 build/stm32f1xx_hal_gpio.o
+ .debug_ranges  0x0000000000000540       0xe0 build/stm32f1xx_hal_cortex.o
+ .debug_ranges  0x0000000000000620       0x18 build/system_stm32f1xx.o
+ .debug_ranges  0x0000000000000638       0x20 build/startup_stm32f103xb.o
 
-.debug_line     0x0000000000000000     0x39ef
- .debug_line    0x0000000000000000      0x35a build/main.o
- .debug_line    0x000000000000035a      0x26a build/gpio.o
- .debug_line    0x00000000000005c4      0x31f build/i2c.o
- .debug_line    0x00000000000008e3      0x2e6 build/stm32f1xx_it.o
- .debug_line    0x0000000000000bc9      0x27a build/stm32f1xx_hal_msp.o
- .debug_line    0x0000000000000e43     0x1562 build/stm32f1xx_hal_i2c.o
- .debug_line    0x00000000000023a5      0x46a build/stm32f1xx_hal.o
- .debug_line    0x000000000000280f      0x5d5 build/stm32f1xx_hal_rcc.o
- .debug_line    0x0000000000002de4      0x474 build/stm32f1xx_hal_gpio.o
- .debug_line    0x0000000000003258      0x460 build/stm32f1xx_hal_cortex.o
- .debug_line    0x00000000000036b8      0x2c5 build/system_stm32f1xx.o
- .debug_line    0x000000000000397d       0x72 build/startup_stm32f103xb.o
+.debug_line     0x0000000000000000     0x4320
+ .debug_line    0x0000000000000000      0x35b build/main.o
+ .debug_line    0x000000000000035b      0x26a build/gpio.o
+ .debug_line    0x00000000000005c5      0x31f build/i2c.o
+ .debug_line    0x00000000000008e4      0x2e6 build/stm32f1xx_it.o
+ .debug_line    0x0000000000000bca      0x27a build/stm32f1xx_hal_msp.o
+ .debug_line    0x0000000000000e44      0x40b build/ssd1306.o
+ .debug_line    0x000000000000124f      0x136 build/ssd1306_fonts.o
+ .debug_line    0x0000000000001385      0x3ef build/ssd1306_tests.o
+ .debug_line    0x0000000000001774     0x1562 build/stm32f1xx_hal_i2c.o
+ .debug_line    0x0000000000002cd6      0x46a build/stm32f1xx_hal.o
+ .debug_line    0x0000000000003140      0x5d5 build/stm32f1xx_hal_rcc.o
+ .debug_line    0x0000000000003715      0x474 build/stm32f1xx_hal_gpio.o
+ .debug_line    0x0000000000003b89      0x460 build/stm32f1xx_hal_cortex.o
+ .debug_line    0x0000000000003fe9      0x2c5 build/system_stm32f1xx.o
+ .debug_line    0x00000000000042ae       0x72 build/startup_stm32f103xb.o
 
-.debug_str      0x0000000000000000     0x2138
- .debug_str     0x0000000000000000      0xba7 build/main.o
+.debug_str      0x0000000000000000     0x234d
+ .debug_str     0x0000000000000000      0xba1 build/main.o
                                         0xc6e (size before relaxing)
- .debug_str     0x0000000000000ba7       0x51 build/gpio.o
+ .debug_str     0x0000000000000ba1       0x51 build/gpio.o
                                         0x670 (size before relaxing)
- .debug_str     0x0000000000000bf8       0x9e build/i2c.o
+ .debug_str     0x0000000000000bf2       0x9e build/i2c.o
                                         0xbad (size before relaxing)
- .debug_str     0x0000000000000c96       0xaf build/stm32f1xx_it.o
+ .debug_str     0x0000000000000c90       0xaf build/stm32f1xx_it.o
                                         0x6c1 (size before relaxing)
- .debug_str     0x0000000000000d45       0x52 build/stm32f1xx_hal_msp.o
+ .debug_str     0x0000000000000d3f       0x52 build/stm32f1xx_hal_msp.o
                                         0x6aa (size before relaxing)
- .debug_str     0x0000000000000d97      0x82d build/stm32f1xx_hal_i2c.o
+ .debug_str     0x0000000000000d91      0x195 build/ssd1306.o
+                                        0xc26 (size before relaxing)
+ .debug_str     0x0000000000000f26       0x31 build/ssd1306_fonts.o
+                                        0x1d3 (size before relaxing)
+ .debug_str     0x0000000000000f57       0x73 build/ssd1306_tests.o
+                                        0xbca (size before relaxing)
+ .debug_str     0x0000000000000fca      0x80f build/stm32f1xx_hal_i2c.o
                                        0x132c (size before relaxing)
- .debug_str     0x00000000000015c4      0x520 build/stm32f1xx_hal.o
+ .debug_str     0x00000000000017d9      0x520 build/stm32f1xx_hal.o
                                         0xc01 (size before relaxing)
- .debug_str     0x0000000000001ae4      0x1cc build/stm32f1xx_hal_rcc.o
+ .debug_str     0x0000000000001cf9      0x1cc build/stm32f1xx_hal_rcc.o
                                         0xa6d (size before relaxing)
- .debug_str     0x0000000000001cb0      0x14c build/stm32f1xx_hal_gpio.o
+ .debug_str     0x0000000000001ec5      0x14c build/stm32f1xx_hal_gpio.o
                                         0x896 (size before relaxing)
- .debug_str     0x0000000000001dfc      0x2ce build/stm32f1xx_hal_cortex.o
+ .debug_str     0x0000000000002011      0x2ce build/stm32f1xx_hal_cortex.o
                                         0xd29 (size before relaxing)
- .debug_str     0x00000000000020ca       0x4a build/system_stm32f1xx.o
+ .debug_str     0x00000000000022df       0x4a build/system_stm32f1xx.o
                                         0x6ff (size before relaxing)
- .debug_str     0x0000000000002114       0x24 build/startup_stm32f103xb.o
+ .debug_str     0x0000000000002329       0x24 build/startup_stm32f103xb.o
                                          0x44 (size before relaxing)
 
 .comment        0x0000000000000000       0x7f
@@ -1106,6 +1451,9 @@ OUTPUT(build/test_ssd1306.elf elf32-littlearm)
  .comment       0x000000000000007f       0x80 build/i2c.o
  .comment       0x000000000000007f       0x80 build/stm32f1xx_it.o
  .comment       0x000000000000007f       0x80 build/stm32f1xx_hal_msp.o
+ .comment       0x000000000000007f       0x80 build/ssd1306.o
+ .comment       0x000000000000007f       0x80 build/ssd1306_fonts.o
+ .comment       0x000000000000007f       0x80 build/ssd1306_tests.o
  .comment       0x000000000000007f       0x80 build/stm32f1xx_hal_i2c.o
  .comment       0x000000000000007f       0x80 build/stm32f1xx_hal.o
  .comment       0x000000000000007f       0x80 build/stm32f1xx_hal_rcc.o
@@ -1113,20 +1461,40 @@ OUTPUT(build/test_ssd1306.elf elf32-littlearm)
  .comment       0x000000000000007f       0x80 build/stm32f1xx_hal_cortex.o
  .comment       0x000000000000007f       0x80 build/system_stm32f1xx.o
 
-.debug_frame    0x0000000000000000     0x116c
+.debug_frame    0x0000000000000000     0x180c
  .debug_frame   0x0000000000000000       0x94 build/main.o
  .debug_frame   0x0000000000000094       0x28 build/gpio.o
  .debug_frame   0x00000000000000bc       0x6c build/i2c.o
  .debug_frame   0x0000000000000128       0xac build/stm32f1xx_it.o
  .debug_frame   0x00000000000001d4       0x28 build/stm32f1xx_hal_msp.o
- .debug_frame   0x00000000000001fc      0x97c build/stm32f1xx_hal_i2c.o
- .debug_frame   0x0000000000000b78      0x1c0 build/stm32f1xx_hal.o
- .debug_frame   0x0000000000000d38      0x194 build/stm32f1xx_hal_rcc.o
- .debug_frame   0x0000000000000ecc       0xe8 build/stm32f1xx_hal_gpio.o
- .debug_frame   0x0000000000000fb4      0x13c build/stm32f1xx_hal_cortex.o
- .debug_frame   0x00000000000010f0       0x30 build/system_stm32f1xx.o
- .debug_frame   0x0000000000001120       0x2c /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-init.o)
- .debug_frame   0x000000000000114c       0x20 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000000001fc      0x124 build/ssd1306.o
+ .debug_frame   0x0000000000000320       0x94 build/ssd1306_tests.o
+ .debug_frame   0x00000000000003b4      0x97c build/stm32f1xx_hal_i2c.o
+ .debug_frame   0x0000000000000d30      0x1c0 build/stm32f1xx_hal.o
+ .debug_frame   0x0000000000000ef0      0x194 build/stm32f1xx_hal_rcc.o
+ .debug_frame   0x0000000000001084       0xe8 build/stm32f1xx_hal_gpio.o
+ .debug_frame   0x000000000000116c      0x13c build/stm32f1xx_hal_cortex.o
+ .debug_frame   0x00000000000012a8       0x30 build/system_stm32f1xx.o
+ .debug_frame   0x00000000000012d8       0x2c /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-init.o)
+ .debug_frame   0x0000000000001304       0x28 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memmove.o)
+ .debug_frame   0x000000000000132c       0x20 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x000000000000134c       0x7c /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-snprintf.o)
+ .debug_frame   0x00000000000013c8       0x90 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .debug_frame   0x0000000000001458       0x60 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x00000000000014b8       0x28 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memchr-stub.o)
+ .debug_frame   0x00000000000014e0       0x28 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000000000001508       0x38 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x0000000000001540       0x2c /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x000000000000156c       0x3c /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x00000000000015a8       0x2c /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000000000015d4       0x30 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000001604       0x20 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x0000000000001624       0x5c /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x0000000000001680       0x20 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+ .debug_frame   0x00000000000016a0       0xac /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x000000000000174c       0x50 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x000000000000179c       0x24 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_fixdfsi.o)
+ .debug_frame   0x00000000000017c0       0x4c /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
 
 Cross Reference Table
 
@@ -1162,6 +1530,12 @@ FLASH_PageErase                                   build/stm32f1xx_hal_flash_ex.o
                                                   build/stm32f1xx_hal_flash.o
 FLASH_WaitForLastOperation                        build/stm32f1xx_hal_flash.o
                                                   build/stm32f1xx_hal_flash_ex.o
+Font_11x18                                        build/ssd1306_fonts.o
+                                                  build/ssd1306_tests.o
+Font_16x26                                        build/ssd1306_fonts.o
+                                                  build/ssd1306_tests.o
+Font_7x10                                         build/ssd1306_fonts.o
+                                                  build/ssd1306_tests.o
 HAL_DBGMCU_DisableDBGSleepMode                    build/stm32f1xx_hal.o
 HAL_DBGMCU_DisableDBGStandbyMode                  build/stm32f1xx_hal.o
 HAL_DBGMCU_DisableDBGStopMode                     build/stm32f1xx_hal.o
@@ -1184,6 +1558,8 @@ HAL_DMA_Start_IT                                  build/stm32f1xx_hal_dma.o
 HAL_DMA_UnRegisterCallback                        build/stm32f1xx_hal_dma.o
 HAL_DeInit                                        build/stm32f1xx_hal.o
 HAL_Delay                                         build/stm32f1xx_hal.o
+                                                  build/ssd1306_tests.o
+                                                  build/ssd1306.o
                                                   build/main.o
 HAL_FLASHEx_Erase                                 build/stm32f1xx_hal_flash_ex.o
 HAL_FLASHEx_Erase_IT                              build/stm32f1xx_hal_flash_ex.o
@@ -1225,6 +1601,7 @@ HAL_GetTick                                       build/stm32f1xx_hal.o
                                                   build/stm32f1xx_hal_rcc_ex.o
                                                   build/stm32f1xx_hal_rcc.o
                                                   build/stm32f1xx_hal_i2c.o
+                                                  build/ssd1306_tests.o
 HAL_GetTickFreq                                   build/stm32f1xx_hal.o
 HAL_GetTickPrio                                   build/stm32f1xx_hal.o
 HAL_GetUID                                        build/stm32f1xx_hal.o
@@ -1260,6 +1637,7 @@ HAL_I2C_Mem_Read                                  build/stm32f1xx_hal_i2c.o
 HAL_I2C_Mem_Read_DMA                              build/stm32f1xx_hal_i2c.o
 HAL_I2C_Mem_Read_IT                               build/stm32f1xx_hal_i2c.o
 HAL_I2C_Mem_Write                                 build/stm32f1xx_hal_i2c.o
+                                                  build/ssd1306.o
 HAL_I2C_Mem_Write_DMA                             build/stm32f1xx_hal_i2c.o
 HAL_I2C_Mem_Write_IT                              build/stm32f1xx_hal_i2c.o
 HAL_I2C_MspDeInit                                 build/i2c.o
@@ -1387,59 +1765,173 @@ USB_HP_CAN1_TX_IRQHandler                         build/startup_stm32f103xb.o
 USB_LP_CAN1_RX0_IRQHandler                        build/startup_stm32f103xb.o
 UsageFault_Handler                                build/stm32f1xx_it.o
 WWDG_IRQHandler                                   build/startup_stm32f103xb.o
+__adddf3                                          /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+__addsf3                                          /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+__aeabi_d2iz                                      /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_fixdfsi.o)
+                                                  build/ssd1306_tests.o
+__aeabi_dadd                                      /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+__aeabi_ddiv                                      /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_muldivdf3.o)
+                                                  build/ssd1306_tests.o
+__aeabi_dmul                                      /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_muldivdf3.o)
+__aeabi_drsub                                     /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+__aeabi_dsub                                      /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+__aeabi_f2d                                       /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+                                                  build/ssd1306_tests.o
+__aeabi_fadd                                      /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+__aeabi_frsub                                     /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+__aeabi_fsub                                      /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+__aeabi_i2d                                       /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+__aeabi_i2f                                       /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+                                                  build/ssd1306_tests.o
+__aeabi_l2d                                       /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+__aeabi_l2f                                       /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+__aeabi_ui2d                                      /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+                                                  build/ssd1306_tests.o
+__aeabi_ui2f                                      /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+__aeabi_ul2d                                      /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+__aeabi_ul2f                                      /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
 __bss_end__                                       /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
 __bss_start__                                     /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
 __call_exitprocs                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-exit.o)
 __deregister_frame_info                           /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+__divdf3                                          /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_muldivdf3.o)
 __dso_handle                                      /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+__extendsfdf2                                     /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+__fixdfsi                                         /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_fixdfsi.o)
+__floatdidf                                       /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+__floatdisf                                       /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+__floatsidf                                       /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+__floatsisf                                       /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+__floatundidf                                     /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+__floatundisf                                     /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+__floatunsidf                                     /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+__floatunsisf                                     /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
 __init_array_end                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-init.o)
 __init_array_start                                /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-init.o)
 __libc_fini_array                                 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
 __libc_init_array                                 /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-init.o)
                                                   build/startup_stm32f103xb.o
                                                   /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+__malloc_free_list                                /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-mallocr.o)
+                                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-freer.o)
+__malloc_lock                                     /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-mlock.o)
+                                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-mallocr.o)
+                                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-freer.o)
+__malloc_sbrk_start                               /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-mallocr.o)
+__malloc_unlock                                   /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-mlock.o)
+                                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-mallocr.o)
+                                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-freer.o)
+__muldf3                                          /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_muldivdf3.o)
 __preinit_array_end                               /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-init.o)
 __preinit_array_start                             /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-init.o)
 __register_frame_info                             /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
 __sf_fake_stderr                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-impure.o)
 __sf_fake_stdin                                   /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-impure.o)
 __sf_fake_stdout                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-impure.o)
+__ssprint_r                                       /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+__ssputs_r                                        /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o)
 __stack                                           /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+__subdf3                                          /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubdf3.o)
+__subsf3                                          /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
 _ebss                                             build/startup_stm32f103xb.o
 _edata                                            build/startup_stm32f103xb.o
 _estack                                           build/startup_stm32f103xb.o
 _exit                                             /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
                                                   /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-exit.o)
 _fini                                             /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+_free_r                                           /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-freer.o)
+                                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-reent.o)
+                                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-reallocr.o)
+                                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o)
 _global_impure_ptr                                /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-impure.o)
                                                   /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-exit.o)
 _impure_ptr                                       /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-impure.o)
+                                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-reent.o)
+                                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-snprintf.o)
 _init                                             /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
                                                   /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-init.o)
 _mainCRTStartup                                   /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+_malloc_r                                         /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-mallocr.o)
+                                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-reallocr.o)
+                                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+_malloc_usable_size_r                             /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-msizer.o)
+                                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-reallocr.o)
+_printf_common                                    /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+_printf_float                                     /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+_printf_i                                         /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+_realloc_r                                        /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-reallocr.o)
+                                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+_reclaim_reent                                    /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-reent.o)
+_sbrk                                             /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+                                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-sbrkr.o)
+_sbrk_r                                           /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-sbrkr.o)
+                                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-mallocr.o)
 _sbss                                             build/startup_stm32f103xb.o
 _sdata                                            build/startup_stm32f103xb.o
 _sidata                                           build/startup_stm32f103xb.o
+_sniprintf_r                                      /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-snprintf.o)
+_snprintf_r                                       /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-snprintf.o)
 _start                                            /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+_svfiprintf_r                                     /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+_svfprintf_r                                      /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+                                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-snprintf.o)
 atexit                                            /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+cleanup_glue                                      /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-reent.o)
+end                                               /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+errno                                             /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-reent.o)
+                                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-sbrkr.o)
 exit                                              /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-exit.o)
                                                   /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
 g_pfnVectors                                      build/startup_stm32f103xb.o
 hardware_init_hook                                /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
 hi2c1                                             build/i2c.o
                                                   build/main.o
+                                                  build/ssd1306.o
 init                                              build/main.o
 loop                                              build/main.o
 main                                              build/main.o
                                                   build/startup_stm32f103xb.o
                                                   /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+memchr                                            /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memchr-stub.o)
+                                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+memcpy                                            /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memcpy-stub.o)
+                                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-reallocr.o)
+                                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+memmove                                           /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memmove.o)
+                                                  /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+                                                  build/ssd1306_tests.o
 memset                                            /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memset.o)
                                                   build/main.o
                                                   /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
 pFlash                                            build/stm32f1xx_hal_flash.o
                                                   build/stm32f1xx_hal_flash_ex.o
+sniprintf                                         /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-snprintf.o)
+snprintf                                          /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-snprintf.o)
+                                                  build/ssd1306_tests.o
 software_init_hook                                /home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
-ssd1306_TestAll                                   build/main.o
+ssd1306_DrawPixel                                 build/ssd1306.o
+                                                  build/ssd1306_tests.o
+ssd1306_Fill                                      build/ssd1306.o
+                                                  build/ssd1306_tests.o
+ssd1306_Init                                      build/ssd1306.o
+                                                  build/ssd1306_tests.o
+ssd1306_Reset                                     build/ssd1306.o
+ssd1306_SetCursor                                 build/ssd1306.o
+                                                  build/ssd1306_tests.o
+ssd1306_TestAll                                   build/ssd1306_tests.o
+                                                  build/main.o
+ssd1306_TestBorder                                build/ssd1306_tests.o
+ssd1306_TestFPS                                   build/ssd1306_tests.o
+ssd1306_TestFonts                                 build/ssd1306_tests.o
+ssd1306_UpdateScreen                              build/ssd1306.o
+                                                  build/ssd1306_tests.o
+ssd1306_WriteChar                                 build/ssd1306.o
+ssd1306_WriteCommand                              build/ssd1306.o
+ssd1306_WriteData                                 build/ssd1306.o
+ssd1306_WriteString                               build/ssd1306.o
+                                                  build/ssd1306_tests.o
 uwTick                                            build/stm32f1xx_hal.o
 uwTickFreq                                        build/stm32f1xx_hal.o
 uwTickPrio                                        build/stm32f1xx_hal.o

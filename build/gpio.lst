@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccWY2AZR.s 			page 1
+ARM GAS  /tmp/ccCrRm8w.s 			page 1
 
 
    1              		.cpu cortex-m3
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccWY2AZR.s 			page 1
   31:Src/gpio.c    ****   * DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
   32:Src/gpio.c    ****   * SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
   33:Src/gpio.c    ****   * CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-ARM GAS  /tmp/ccWY2AZR.s 			page 2
+ARM GAS  /tmp/ccCrRm8w.s 			page 2
 
 
   34:Src/gpio.c    ****   * OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccWY2AZR.s 			page 1
   52 001a 00BF     		.align	2
   53              	.L3:
   54 001c 00100240 		.word	1073876992
-ARM GAS  /tmp/ccWY2AZR.s 			page 3
+ARM GAS  /tmp/ccCrRm8w.s 			page 3
 
 
   55              		.cfi_endproc
@@ -135,13 +135,13 @@ ARM GAS  /tmp/ccWY2AZR.s 			page 1
   67              		.file 9 "/home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/lib/gcc/arm-none
   68              		.file 10 "/home/logic/_workspace/STM32Toolchain/gcc-arm-none-eabi-7-2018-q2-update/arm-none-eabi/i
   69              		.file 11 "Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h"
-ARM GAS  /tmp/ccWY2AZR.s 			page 4
+ARM GAS  /tmp/ccCrRm8w.s 			page 4
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 gpio.c
-     /tmp/ccWY2AZR.s:16     .text.MX_GPIO_Init:0000000000000000 $t
-     /tmp/ccWY2AZR.s:23     .text.MX_GPIO_Init:0000000000000000 MX_GPIO_Init
-     /tmp/ccWY2AZR.s:54     .text.MX_GPIO_Init:000000000000001c $d
+     /tmp/ccCrRm8w.s:16     .text.MX_GPIO_Init:0000000000000000 $t
+     /tmp/ccCrRm8w.s:23     .text.MX_GPIO_Init:0000000000000000 MX_GPIO_Init
+     /tmp/ccCrRm8w.s:54     .text.MX_GPIO_Init:000000000000001c $d
 
 NO UNDEFINED SYMBOLS
