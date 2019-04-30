@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccYmYGXc.s 			page 1
+ARM GAS  /tmp/cclkIcaj.s 			page 1
 
 
    1              		.cpu cortex-m3
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccYmYGXc.s 			page 1
   48              		@ args = 0, pretend = 0, frame = 8
   49              		@ frame_needed = 0, uses_anonymous_args = 0
   50              	.LVL0:
-ARM GAS  /tmp/ccYmYGXc.s 			page 2
+ARM GAS  /tmp/cclkIcaj.s 			page 2
 
 
   51 0000 00B5     		push	{lr}
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccYmYGXc.s 			page 1
  102              		.cfi_def_cfa_offset 4
  103              		.cfi_offset 14, -4
  104 0002 85B0     		sub	sp, sp, #20
-ARM GAS  /tmp/ccYmYGXc.s 			page 3
+ARM GAS  /tmp/cclkIcaj.s 			page 3
 
 
  105              	.LCFI4:
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccYmYGXc.s 			page 1
   33:Src/ssd1306.c **** void ssd1306_WriteCommand(uint8_t byte) {
   34:Src/ssd1306.c ****     HAL_GPIO_WritePin(SSD1306_CS_Port, SSD1306_CS_Pin, GPIO_PIN_RESET); // select OLED
   35:Src/ssd1306.c ****     HAL_GPIO_WritePin(SSD1306_DC_Port, SSD1306_DC_Pin, GPIO_PIN_RESET); // command
-ARM GAS  /tmp/ccYmYGXc.s 			page 4
+ARM GAS  /tmp/cclkIcaj.s 			page 4
 
 
   36:Src/ssd1306.c ****     HAL_SPI_Transmit(&SSD1306_SPI_PORT, (uint8_t *) &byte, 1, HAL_MAX_DELAY);
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccYmYGXc.s 			page 1
   90:Src/ssd1306.c **** #ifdef SSD1306_MIRROR_HORIZ
   91:Src/ssd1306.c ****     ssd1306_WriteCommand(0xA0); // Mirror horizontally
   92:Src/ssd1306.c **** #else
-ARM GAS  /tmp/ccYmYGXc.s 			page 5
+ARM GAS  /tmp/cclkIcaj.s 			page 5
 
 
   93:Src/ssd1306.c ****     ssd1306_WriteCommand(0xA1); //--set segment re-map 0 to 127 - CHECK
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccYmYGXc.s 			page 1
  141:Src/ssd1306.c ****     /* Set memory */
  142:Src/ssd1306.c ****     uint32_t i;
  143:Src/ssd1306.c **** 
-ARM GAS  /tmp/ccYmYGXc.s 			page 6
+ARM GAS  /tmp/cclkIcaj.s 			page 6
 
 
  144:Src/ssd1306.c ****     for(i = 0; i < sizeof(SSD1306_Buffer); i++) {
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccYmYGXc.s 			page 1
  197 0000 10B5     		push	{r4, lr}
  198              	.LCFI6:
  199              		.cfi_def_cfa_offset 8
-ARM GAS  /tmp/ccYmYGXc.s 			page 7
+ARM GAS  /tmp/cclkIcaj.s 			page 7
 
 
  200              		.cfi_offset 4, -8
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccYmYGXc.s 			page 1
  244              	.LFE71:
  246              		.section	.text.ssd1306_Init,"ax",%progbits
  247              		.align	1
-ARM GAS  /tmp/ccYmYGXc.s 			page 8
+ARM GAS  /tmp/cclkIcaj.s 			page 8
 
 
  248              		.global	ssd1306_Init
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccYmYGXc.s 			page 1
  294 002c 1020     		movs	r0, #16
  295 002e FFF7FEFF 		bl	ssd1306_WriteCommand
  296              	.LVL26:
-ARM GAS  /tmp/ccYmYGXc.s 			page 9
+ARM GAS  /tmp/cclkIcaj.s 			page 9
 
 
   85:Src/ssd1306.c **** 
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccYmYGXc.s 			page 1
  340              	.LVL37:
  111:Src/ssd1306.c **** 
  341              		.loc 1 111 0
-ARM GAS  /tmp/ccYmYGXc.s 			page 10
+ARM GAS  /tmp/cclkIcaj.s 			page 10
 
 
  342 0074 F020     		movs	r0, #240
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccYmYGXc.s 			page 1
  385              		.loc 1 130 0
  386 00b6 FFF7FEFF 		bl	ssd1306_UpdateScreen
  387              	.LVL49:
-ARM GAS  /tmp/ccYmYGXc.s 			page 11
+ARM GAS  /tmp/cclkIcaj.s 			page 11
 
 
  133:Src/ssd1306.c ****     SSD1306.CurrentY = 0;
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccYmYGXc.s 			page 1
  171:Src/ssd1306.c ****     if(SSD1306.Inverted) {
  428              		.loc 1 171 0 is_stmt 1
  429 000a 104B     		ldr	r3, .L33
-ARM GAS  /tmp/ccYmYGXc.s 			page 12
+ARM GAS  /tmp/cclkIcaj.s 			page 12
 
 
  430 000c 1B79     		ldrb	r3, [r3, #4]	@ zero_extendqisi2
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccYmYGXc.s 			page 1
  473              	.L34:
  474              		.align	2
  475              	.L33:
-ARM GAS  /tmp/ccYmYGXc.s 			page 13
+ARM GAS  /tmp/cclkIcaj.s 			page 13
 
 
  476 004c 00000000 		.word	.LANCHOR1
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccYmYGXc.s 			page 1
  521 001a 214A     		ldr	r2, .L48
  522 001c 5288     		ldrh	r2, [r2, #2]
  523 001e 9DF801A0 		ldrb	r10, [sp, #1]	@ zero_extendqisi2
-ARM GAS  /tmp/ccYmYGXc.s 			page 14
+ARM GAS  /tmp/cclkIcaj.s 			page 14
 
 
  524 0022 D346     		mov	fp, r10
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccYmYGXc.s 			page 1
  560              		.loc 1 203 0
  561 005a 114B     		ldr	r3, .L48
  562 005c 1888     		ldrh	r0, [r3]
-ARM GAS  /tmp/ccYmYGXc.s 			page 15
+ARM GAS  /tmp/cclkIcaj.s 			page 15
 
 
  563 005e 5988     		ldrh	r1, [r3, #2]
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccYmYGXc.s 			page 1
  603              	.LVL69:
  604              	.L36:
  215:Src/ssd1306.c **** }
-ARM GAS  /tmp/ccYmYGXc.s 			page 16
+ARM GAS  /tmp/cclkIcaj.s 			page 16
 
 
  605              		.loc 1 215 0
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccYmYGXc.s 			page 1
  657              	.LVL74:
  658              	.L51:
  219:Src/ssd1306.c ****     // Write until null-byte
-ARM GAS  /tmp/ccYmYGXc.s 			page 17
+ARM GAS  /tmp/cclkIcaj.s 			page 17
 
 
  220:Src/ssd1306.c ****     while (*str) {
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccYmYGXc.s 			page 1
  699              		@ args = 0, pretend = 0, frame = 0
  700              		@ frame_needed = 0, uses_anonymous_args = 0
  701              		@ link register save eliminated.
-ARM GAS  /tmp/ccYmYGXc.s 			page 18
+ARM GAS  /tmp/cclkIcaj.s 			page 18
 
 
  702              	.LVL77:
@@ -1070,43 +1070,43 @@ ARM GAS  /tmp/ccYmYGXc.s 			page 1
  745              		.file 14 "Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h"
  746              		.file 15 "Inc/ssd1306_fonts.h"
  747              		.file 16 "Inc/ssd1306.h"
-ARM GAS  /tmp/ccYmYGXc.s 			page 19
+ARM GAS  /tmp/cclkIcaj.s 			page 19
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 ssd1306.c
-     /tmp/ccYmYGXc.s:16     .text.ssd1306_Reset:0000000000000000 $t
-     /tmp/ccYmYGXc.s:23     .text.ssd1306_Reset:0000000000000000 ssd1306_Reset
-     /tmp/ccYmYGXc.s:37     .text.ssd1306_WriteCommand:0000000000000000 $t
-     /tmp/ccYmYGXc.s:44     .text.ssd1306_WriteCommand:0000000000000000 ssd1306_WriteCommand
-     /tmp/ccYmYGXc.s:81     .text.ssd1306_WriteCommand:0000000000000028 $d
-     /tmp/ccYmYGXc.s:86     .text.ssd1306_WriteData:0000000000000000 $t
-     /tmp/ccYmYGXc.s:93     .text.ssd1306_WriteData:0000000000000000 ssd1306_WriteData
-     /tmp/ccYmYGXc.s:130    .text.ssd1306_WriteData:0000000000000024 $d
-     /tmp/ccYmYGXc.s:135    .text.ssd1306_Fill:0000000000000000 $t
-     /tmp/ccYmYGXc.s:142    .text.ssd1306_Fill:0000000000000000 ssd1306_Fill
-     /tmp/ccYmYGXc.s:179    .text.ssd1306_Fill:000000000000001c $d
-     /tmp/ccYmYGXc.s:184    .text.ssd1306_UpdateScreen:0000000000000000 $t
-     /tmp/ccYmYGXc.s:191    .text.ssd1306_UpdateScreen:0000000000000000 ssd1306_UpdateScreen
-     /tmp/ccYmYGXc.s:242    .text.ssd1306_UpdateScreen:0000000000000034 $d
-     /tmp/ccYmYGXc.s:247    .text.ssd1306_Init:0000000000000000 $t
-     /tmp/ccYmYGXc.s:254    .text.ssd1306_Init:0000000000000000 ssd1306_Init
-     /tmp/ccYmYGXc.s:402    .text.ssd1306_Init:00000000000000c8 $d
-     /tmp/ccYmYGXc.s:407    .text.ssd1306_DrawPixel:0000000000000000 $t
-     /tmp/ccYmYGXc.s:414    .text.ssd1306_DrawPixel:0000000000000000 ssd1306_DrawPixel
-     /tmp/ccYmYGXc.s:476    .text.ssd1306_DrawPixel:000000000000004c $d
-     /tmp/ccYmYGXc.s:482    .text.ssd1306_WriteChar:0000000000000000 $t
-     /tmp/ccYmYGXc.s:489    .text.ssd1306_WriteChar:0000000000000000 ssd1306_WriteChar
-     /tmp/ccYmYGXc.s:623    .text.ssd1306_WriteChar:00000000000000a0 $d
-     /tmp/ccYmYGXc.s:628    .text.ssd1306_WriteString:0000000000000000 $t
-     /tmp/ccYmYGXc.s:635    .text.ssd1306_WriteString:0000000000000000 ssd1306_WriteString
-     /tmp/ccYmYGXc.s:688    .text.ssd1306_SetCursor:0000000000000000 $t
-     /tmp/ccYmYGXc.s:695    .text.ssd1306_SetCursor:0000000000000000 ssd1306_SetCursor
-     /tmp/ccYmYGXc.s:713    .text.ssd1306_SetCursor:0000000000000008 $d
-     /tmp/ccYmYGXc.s:718    .bss.SSD1306:0000000000000000 $d
-     /tmp/ccYmYGXc.s:722    .bss.SSD1306:0000000000000000 SSD1306
-     /tmp/ccYmYGXc.s:725    .bss.SSD1306_Buffer:0000000000000000 $d
-     /tmp/ccYmYGXc.s:729    .bss.SSD1306_Buffer:0000000000000000 SSD1306_Buffer
+     /tmp/cclkIcaj.s:16     .text.ssd1306_Reset:0000000000000000 $t
+     /tmp/cclkIcaj.s:23     .text.ssd1306_Reset:0000000000000000 ssd1306_Reset
+     /tmp/cclkIcaj.s:37     .text.ssd1306_WriteCommand:0000000000000000 $t
+     /tmp/cclkIcaj.s:44     .text.ssd1306_WriteCommand:0000000000000000 ssd1306_WriteCommand
+     /tmp/cclkIcaj.s:81     .text.ssd1306_WriteCommand:0000000000000028 $d
+     /tmp/cclkIcaj.s:86     .text.ssd1306_WriteData:0000000000000000 $t
+     /tmp/cclkIcaj.s:93     .text.ssd1306_WriteData:0000000000000000 ssd1306_WriteData
+     /tmp/cclkIcaj.s:130    .text.ssd1306_WriteData:0000000000000024 $d
+     /tmp/cclkIcaj.s:135    .text.ssd1306_Fill:0000000000000000 $t
+     /tmp/cclkIcaj.s:142    .text.ssd1306_Fill:0000000000000000 ssd1306_Fill
+     /tmp/cclkIcaj.s:179    .text.ssd1306_Fill:000000000000001c $d
+     /tmp/cclkIcaj.s:184    .text.ssd1306_UpdateScreen:0000000000000000 $t
+     /tmp/cclkIcaj.s:191    .text.ssd1306_UpdateScreen:0000000000000000 ssd1306_UpdateScreen
+     /tmp/cclkIcaj.s:242    .text.ssd1306_UpdateScreen:0000000000000034 $d
+     /tmp/cclkIcaj.s:247    .text.ssd1306_Init:0000000000000000 $t
+     /tmp/cclkIcaj.s:254    .text.ssd1306_Init:0000000000000000 ssd1306_Init
+     /tmp/cclkIcaj.s:402    .text.ssd1306_Init:00000000000000c8 $d
+     /tmp/cclkIcaj.s:407    .text.ssd1306_DrawPixel:0000000000000000 $t
+     /tmp/cclkIcaj.s:414    .text.ssd1306_DrawPixel:0000000000000000 ssd1306_DrawPixel
+     /tmp/cclkIcaj.s:476    .text.ssd1306_DrawPixel:000000000000004c $d
+     /tmp/cclkIcaj.s:482    .text.ssd1306_WriteChar:0000000000000000 $t
+     /tmp/cclkIcaj.s:489    .text.ssd1306_WriteChar:0000000000000000 ssd1306_WriteChar
+     /tmp/cclkIcaj.s:623    .text.ssd1306_WriteChar:00000000000000a0 $d
+     /tmp/cclkIcaj.s:628    .text.ssd1306_WriteString:0000000000000000 $t
+     /tmp/cclkIcaj.s:635    .text.ssd1306_WriteString:0000000000000000 ssd1306_WriteString
+     /tmp/cclkIcaj.s:688    .text.ssd1306_SetCursor:0000000000000000 $t
+     /tmp/cclkIcaj.s:695    .text.ssd1306_SetCursor:0000000000000000 ssd1306_SetCursor
+     /tmp/cclkIcaj.s:713    .text.ssd1306_SetCursor:0000000000000008 $d
+     /tmp/cclkIcaj.s:718    .bss.SSD1306:0000000000000000 $d
+     /tmp/cclkIcaj.s:722    .bss.SSD1306:0000000000000000 SSD1306
+     /tmp/cclkIcaj.s:725    .bss.SSD1306_Buffer:0000000000000000 $d
+     /tmp/cclkIcaj.s:729    .bss.SSD1306_Buffer:0000000000000000 SSD1306_Buffer
 
 UNDEFINED SYMBOLS
 HAL_I2C_Mem_Write
